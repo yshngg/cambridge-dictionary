@@ -1,0 +1,23 @@
+{
+  "name": "cambridge-dictionary",
+  "version": "1.0.0",
+  "description": "Cambridge dictionary e2e tests.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yshngg/cambridge-dictionary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yshngg/cambridge-dictionary/issues"
+  },
+  "homepage": "https://github.com/yshngg/cambridge-dictionary#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.7"
+  }
+}
